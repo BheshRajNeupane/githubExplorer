@@ -30,6 +30,8 @@ GitHubExplorer is a web application that allows users to explore GitHub profiles
 
   
 ![1](https://github.com/user-attachments/assets/6470940a-aa51-43f8-b546-486ed13b8c8a)
+![1](https://github.com/user-attachments/assets/c7c121d2-acdb-46e4-b838-e0429ec0d64c)
+
 ![2git](https://github.com/user-attachments/assets/3c945ed5-2ddd-42e4-9381-fb0085d8719c)
 
 ![3git](https://github.com/user-attachments/assets/f251f4f7-f14d-4ef3-9cf5-b204aa7c5bcb)
